@@ -1,8 +1,5 @@
-Metalica
-
-Led Zeppelin
-
-Iron Maiden
-
-Pantera
+* Metalica
+* Led Zeppelin
+* Iron Maiden
+* Pantera
 
