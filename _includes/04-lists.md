@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Metalica
+Led Zeppelin
+Iron Maiden
+Pantera
+Slayer
